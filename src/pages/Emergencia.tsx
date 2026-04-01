@@ -6,7 +6,7 @@ export function Emergencia() {
   return (
     <div className="min-h-screen bg-[#FDFBF7] pt-24 pb-20">
       <AnimatedSection className="bg-red-700 text-white py-20 lg:py-32 text-center relative overflow-hidden">
-        <div className="absolute inset-0 bg-[url('https://picsum.photos/seed/emergency/1920/1080?blur=4')] opacity-10 bg-cover bg-center mix-blend-overlay"></div>
+        <div className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1584820927498-cafe2c1c6a63?auto=format&fit=crop&w=1920&q=80')] opacity-10 bg-cover bg-center mix-blend-overlay"></div>
         <div className="absolute inset-0 bg-gradient-to-t from-red-950/80 to-transparent"></div>
         
         <div className="container mx-auto px-4 relative z-10">

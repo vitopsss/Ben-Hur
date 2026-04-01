@@ -84,7 +84,7 @@ export function Home() {
             >
               <div className="aspect-[3/4] w-full max-w-md ml-auto rounded-full overflow-hidden border-8 border-white shadow-2xl">
                 <img 
-                  src="https://picsum.photos/seed/doghug/800/1000" 
+                  src="https://images.unsplash.com/photo-1606425271394-c3ca9aa1fc06?auto=format&fit=crop&w=800&q=80" 
                   alt="Cachorro sendo abraçado" 
                   className="w-full h-full object-cover"
                   referrerPolicy="no-referrer"
